@@ -2,7 +2,7 @@
 
 A comprehensive customer support bot that integrates **OpenAI GPT** and **Google Gemini** to compare their responses and performance in customer service scenarios.
 
-<video src="assets/AppOutput.mp4" loop muted autoplay width="100%"></video>
+<video src="assets/AppOutput.mp4" controls width="100%"></video>
 
 ## 🎯 Goals
 
